@@ -1,7 +1,7 @@
 #
-# Fuzzy Time  widget for Übersicht
-# Geoff Oliver
-# github.com/plan8studios/fuzzytime
+# Today widget for Übersicht
+# Ruurd Pels
+# github.com/ruurd/simpledate
 #
 
 #
