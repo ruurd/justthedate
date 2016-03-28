@@ -1,7 +1,7 @@
 #
-# Today widget for Übersicht
+# Just The Date widget for Übersicht
 # Ruurd Pels
-# github.com/ruurd/simpledate
+# github.com/ruurd/justthedate
 #
 
 #
@@ -11,7 +11,7 @@ style =
   # Define the maximum width of the widget.
   width: "45%"
 
-  # Define the position, where to display the time.
+  # Define the position, where to display the date.
   # Set properties you don't need to "auto"
   position:
     top:    "1%"
@@ -31,7 +31,7 @@ style =
   text_align:     "right"
   text_transform: "uppercase"
 
-# Get the current hour as word.
+# Do the command - never mind in this case
 command: "echo hello date"
 
 # Lower the frequency for more accuracy.
